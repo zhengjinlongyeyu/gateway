@@ -1,0 +1,27 @@
+{"properties": [
+  {
+    "name": "spring.nacos.discovery.server-addr",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.nacos.discovery.server-addr'"
+  },
+  {
+    "name": "spring.cloud.nacos.discovery.server-addr",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.cloud.nacos.discovery.server-addr'"
+  },
+  {
+    "name": "spring.cloud.gateway.discovery.locator.enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.cloud.gateway.discovery.locator.enabled'"
+  },
+  {
+    "name": "spring.cloud.gateway.routes",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.cloud.gateway.routes'"
+  },
+  {
+    "name": "spring.cloud.gateway.discovery.locator.lower-case-service-id",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.cloud.gateway.discovery.locator.lower-case-service-id'"
+  }
+]}
